@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu me chamo Janis Boiko, sou:
 
-<!--
-**JanisBoiko1/JanisBoiko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cientista de Dados em formação  
+🔬 Pesquisador em Machine Learning, Inferência Estatística e Métodos Computacionais.  
+📍 Brasil  
+🔗 [LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/janisboikodarosa/))
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Repositórios em destaque
+
+- **[web50](https://github.com/JanisBoiko1/web50)**  
+  Projetos do curso CS50’s Web Programming with Python and JavaScript | Harvard University
+
+- **[uninter](https://github.com/JanisBoiko1/uninter)**  
+  Projetos da graduação em Análise e Desenvolvimento de Sistemas | Uninter
+
+- **[cs50](https://github.com/JanisBoiko1/cs50)**  
+  Exercícios do curso CS50: Introduction to Computer Science | Harvard University
+
+- **[HelloAndroid](https://github.com/JanisBoiko1/HelloAndroid)**  
+  Primeiro app Android em Kotlin
+
+---
+
+📊 **18 contribuições no último ano**
