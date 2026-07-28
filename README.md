@@ -7,20 +7,24 @@
 
 ---
 
-## 📌 Repositórios em destaque
+### 📊 [analise-creches-pr](https://github.com/JanisBoiko1/analise-creches-pr)
+Análise de dados de creches no Paraná
 
-- **[web50](https://github.com/JanisBoiko1/web50)**  
-  Projetos do curso CS50’s Web Programming with Python and JavaScript | Harvard University
+### 🎓 [pos_DSBD](https://github.com/JanisBoiko1/pos_DSBD)
+Projetos da pós-graduação em Data Science e Big Data
 
-- **[uninter](https://github.com/JanisBoiko1/uninter)**  
-  Projetos da graduação em Análise e Desenvolvimento de Sistemas | Uninter
+### 💻 [Infraestrutura_computacional_III](https://github.com/JanisBoiko1/Infraestrutura_computacional_III)
+Trabalhos da disciplina Infraestrutura Computacional III
 
-- **[cs50](https://github.com/JanisBoiko1/cs50)**  
-  Exercícios do curso CS50: Introduction to Computer Science | Harvard University
+### 🌐 [web50](https://github.com/JanisBoiko1/web50)
+Projetos do curso CS50 Web
 
-- **[HelloAndroid](https://github.com/JanisBoiko1/HelloAndroid)**  
-  Primeiro app Android em Kotlin
+### 💻 [cs50](https://github.com/JanisBoiko1/cs50)
+Introdução à Ciência da Computação - CS50
+
+### 📱 [HelloAndroid](https://github.com/JanisBoiko1/HelloAndroid)
+Primeiro app Android em Kotlin
 
 ---
 
-📊 **18 contribuições no último ano**
+📊 **23 contribuições no último ano**
